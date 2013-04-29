@@ -1,0 +1,24 @@
+{
+  "author": "Brian Carr <bcarr14@gmail.com>",
+  "name": "variable-extrapolator",
+  "description": "Find and pull variable values from complex objects.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mrmarbles/variable-extrapolator.git"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 0.8.x"
+  },
+  "dependencies": {
+    "stringtokenizer": "0.0.4"
+  },
+  "devDependencies": {
+    "nodeunit": ">= 0.7.4"
+  },
+  "scripts": {
+    "test": "nodeunit test/"
+  },
+  "license": "MIT"
+}
