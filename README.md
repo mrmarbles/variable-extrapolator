@@ -3,7 +3,7 @@ variable-extrapolator
 
 [![Build Status](https://travis-ci.org/mrmarbles/variable-extrapolator.png?branch=master)](https://travis-ci.org/mrmarbles/variable-extrapolator)
 
-Find and pull variable values from complex objects..
+Find and pull variable values from complex objects.
 
 Installation
 ---------------
